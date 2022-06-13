@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris1871
 - 👀 I’m interested in information security, web development, computers and networks
-- 🌱 I’m currently learning python, php, html, javascript and css.  I am also active on tryhackme and a current student, Masters of Engineering in Cybersecurity, at George Washington University.
+- 🌱 I’m currently learning python, php, html, javascript and css.  I am also active on tryhackme and a current student, Master of Engineering in Cybersecurity, at George Washington University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
